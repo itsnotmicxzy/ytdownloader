@@ -14,7 +14,7 @@ YouTube Downloader is a simple web application built with Flask that allows user
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/youtube-downloader.git
+git clone https://github.com/itsnotmicxzy/youtube-downloader.git
 ```
 
 2. Install the required dependencies:
